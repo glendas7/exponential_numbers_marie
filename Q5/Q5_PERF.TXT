@@ -1,0 +1,4 @@
+(A,B) = (3,9)
+without the division instruction: X1 = 24	
+with division instructions X2 = 2
+R= 2/24*100 = 8.3%

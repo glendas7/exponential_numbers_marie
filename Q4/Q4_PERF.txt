@@ -1,0 +1,7 @@
+Total instructions excecuted: 24
+
+without multiplication: (X1) = 22
+without multiplication: (X2) = 2
+
+Calculate the instruction reduction rate:
+R= 2/22*100 = 9.09%
