@@ -1,0 +1,26 @@
+			Input A
+			Store A
+			Input B
+			Store B
+			Skipcond 400 //skip next line if ac = 0
+			Jump Loop
+			Load One
+			Store C
+			Output
+			Halt
+Loop,   	Load A
+			Mult A
+			Store C
+			Load B
+			Subt One
+			Store B
+			Skipcond 400 //skip next line if ac = 0
+			Jump Loop
+			Load C
+			Output
+			Halt	
+
+A, Dec 0
+B, Dec 0
+C, Dec 0
+One, Dec 1
