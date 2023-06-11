@@ -4,8 +4,7 @@
 		Store B
 		Skipcond 400 //skip next line if ac = 0
 		Jump Loop
-		Load One
-		Store C
+		Load C
 		Output
 		Halt
 Loop,           Load A
